@@ -20,11 +20,11 @@ demo项目[>>我是地址](https://github.com/yfsoftcom/yf-demo-api)
 辅助工具，web端管理定时任务 [>>我是地址](https://github.com/yfsoftcom/yf-job-scheduler)
 
 ###### b.客户端产品（编码已完成，正在更新文档）
-* ngapi
- angularjs前端SDK
+* ngapi 
+ angularjs前端SDK  [>>我是地址](https://github.com/yfsoftcom/ngapi)
 
-* apiengine 
-nodejs SDK
+* yf-fp-client-node 
+nodejs SDK  [>>我是地址](https://github.com/yfsoftcom/yf-fp-client-node)
 
 * apiengine4j
 java SDK
